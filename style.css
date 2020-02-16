@@ -1,1 +1,81 @@
+body {
+    max-width: 680px;
+    height: auto;
+    margin: 0 auto;
+    font-family: Arial, serif;
+}
+.header {
+     padding-top: 30px;
+}
+.header h1, .header h3 {
+    text-align: right;
+    padding-right: 40px;
+}
+.header h1 {
+    padding-top: 20px;
+    color: #203158;
+}
+.header h3 {
+    padding-bottom: 60px;
+}
+.header p {
+    text-align: right;
+    padding-right: 70px;
+    font-size: 16px;
+}
+.background {
+    background-color: rgba(204, 204, 204, 0.5);
+}
+.contactInfo {
+    width: 640px;
+    margin-left: 40px;
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 290px;
+}
+.contactInfo img {
+    width: 200px;
+    height: 290px;
+    float: left;
+}
+.contactInfo p img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 10px;
+}
+.information {
+    margin: 80px 40px;
+}
+.information span {
+    font-weight: bold;
+}
+.information li {
+    list-style-type: square;
+}
+section {
+    padding-bottom: 10px;
+    text-align: justify;
+}
+h4{
+    border-bottom: 2px solid #203158;
+    font-size: 18px;
+    color: #203158;
+}
+footer {
+    padding-bottom: 40px;
+    text-align: center;
+}
+footer img {
+    width: 40px;
+    padding-top: 2%;
+}
+.footer {
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+a:link {
+    text-decoration: none;
+    color: #203158;
+}
+
 
