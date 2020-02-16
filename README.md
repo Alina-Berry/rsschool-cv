@@ -1,1 +1,1 @@
-https://Alina-Berry.github.io/rsschool-cv
+https://Alina-Berry.github.io/rsschool-cv/cv.md
